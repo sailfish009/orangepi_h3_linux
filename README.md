@@ -1,4 +1,4 @@
-# Build H3 image For OrangePi
+# Build H3 image For OrangePi PC
 
 The OrangePi-Kernel contains Linux kernel sources (3.4.113 and 4.9) adapted for OrangePi H3 boards
 
