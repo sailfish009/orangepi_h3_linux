@@ -14,7 +14,7 @@ The OrangePi-Kernel contains Linux kernel sources (3.4.113 and 4.9) adapted for 
 ``` shell
 cd OrangePI-Kernel                             #首先进入OrangePI-Kernel目录
 sudo ./build_linux_kernel.sh clean clean       #clean kernel
-sudo ./build_linux_kernel.sh plus              #plus为例，编译kernel，在build/下面生成uImage_OPI-PLUS
+sudo ./build_linux_kernel.sh pc                #orangepi PC kernel build
 
 #如编译plus,plus2e,plus2对应是build/uImage_OPI-PLUS，其他的型号对应build/uImage_OPI-2,编译出来的modules和firmware在build/lib下面
 ```
